@@ -1,0 +1,1 @@
+This Simon Game is a classic memory challenge where players follow a sequence of flashing lights and sounds. Built with HTML, CSS, and JavaScript, it features progressive difficulty and responsive design. Clone the repo and open index.html to play!
